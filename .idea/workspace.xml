@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4ebca114-6de6-41ac-a839-074410e06a67" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/methodd.java" />
-    </list>
+    <list default="true" id="4ebca114-6de6-41ac-a839-074410e06a67" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -230,12 +228,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1560435994193</updated>
-      <workItem from="1560436002159" duration="129000" />
+      <workItem from="1560436002159" duration="279000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="129000" />
+    <option name="totallyTimeSpent" value="279000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1023" height="672" extended-state="0" />
